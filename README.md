@@ -16,13 +16,11 @@ Here are some ideas to get you started:
 
 ### Hi there👋, Welcome!
 
-###
-
 <div align="center">
   <img src="https://github.com/fedenh22/fedenh22/assets/58404020/ae65b67b-53e4-4918-9307-8df57d8b7761"  />
 </div>
 
-###
+<br/>
 
 <div align="center">
   <a href="https://linkedin.com/in/fedenh/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/></a>
@@ -31,25 +29,25 @@ Here are some ideas to get you started:
   <a href="mailto:fedenhoundonougbo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/></a>
 </div>
 
-###
+<br/>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/fedenh22/count.svg?"  />
 </div>
 
-###
+<br/>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+<br/>
 
 <p align="left">I'm Eden from Abomey-Calavi University, Benin<br><br>- 🌱 I’m currently learning Information Systems and Computer Networks<br>- 🔭 I’m currently working on fairness in ML datasets<br>- 👯 I’m looking to collaborate on subjects related to decision support and software engineering <br>- ⚡ In my free time I love trying new things<br>- 😄 Pronouns: He, His, Him</p>
 
-###
+<br/>
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+<br/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -83,11 +81,11 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"  />
 </div>
 
-###
+<br/>
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fedenh22&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
@@ -95,4 +93,4 @@ Here are some ideas to get you started:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fedenh22&theme=github-light&radius=10&area=true&hide_border=true&hide_title=true" height="284" alt="activity-graph graph"  />
 </div>
 
-###
+<br/>
