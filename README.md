@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">I'm Eden, an amU's student<br><br>
+<p align="left">I'm Eden, an Aix-Marseille University's student<br><br>
   - 🌱 I’m currently learning Data Science and Engineering<br>
   - 🔭 I’m currently working on fairness in ML datasets<br>
   - 👯 I’m looking to collaborate on subjects related to decision support and software engineering <br>
